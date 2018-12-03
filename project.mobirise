@@ -5,10 +5,7 @@
     "theme": {
       "name": "default",
       "title": "Mobirise",
-      "styling": {},
-      "additionalSetColors": [
-        "#ff0000"
-      ]
+      "styling": {}
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
@@ -98,7 +95,7 @@
                 "showText": false,
                 "showTitle": true,
                 "title": "iPhone XS<br>от 77000 рублей",
-                "contentAlign": "right",
+                "contentAlign": "left",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
@@ -126,7 +123,7 @@
                 "showText": false,
                 "showTitle": true,
                 "title": "iPhone X<br>от 68000 рублей",
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
@@ -178,7 +175,7 @@
             "showHeader": false,
             "showSubheader": false,
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showCaptions": false,
             "showButtons": true,
             "paddingTop": "1",
@@ -220,7 +217,7 @@
               "size": 0
             }
           },
-          "title1": "BOOTSTRAP 3",
+          "title1": "iPhone XS",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_3024278%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media2": {
@@ -243,7 +240,7 @@
               "size": 0
             }
           },
-          "title2": "RESPONSIVE",
+          "title2": "iPhone XR",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2954795%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media3": {
@@ -266,7 +263,7 @@
               "size": 0
             }
           },
-          "title3": "WEB FONTS",
+          "title3": "iPhone X",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2807312%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media4": {
@@ -289,7 +286,7 @@
               "size": 0
             }
           },
-          "title4": "UNLIMITED WEBSITES",
+          "title4": "iPhone 8 Plus",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2963469%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media5": {
@@ -312,7 +309,7 @@
               "size": 0
             }
           },
-          "title5": "TRENDY WEBSITE BLOCKS",
+          "title5": "iPhone 8",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2963464%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media6": {
@@ -352,7 +349,7 @@
             "showHeader": false,
             "showSubheader": false,
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showCaptions": false,
             "showButtons": true,
             "paddingTop": "1",
@@ -394,7 +391,7 @@
               "size": 0
             }
           },
-          "title1": "BOOTSTRAP 3",
+          "title1": "iPhone 7 Plus",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2807210%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media2": {
@@ -417,7 +414,7 @@
               "size": 0
             }
           },
-          "title2": "RESPONSIVE",
+          "title2": "iPhone 7",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2807298%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media3": {
@@ -440,7 +437,7 @@
               "size": 0
             }
           },
-          "title3": "WEB FONTS",
+          "title3": "iPhone SE",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2807201%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media4": {
@@ -463,7 +460,7 @@
               "size": 0
             }
           },
-          "title4": "UNLIMITED WEBSITES",
+          "title4": "iPhone 6s Plus",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2785880%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media5": {
@@ -486,7 +483,7 @@
               "size": 0
             }
           },
-          "title5": "TRENDY WEBSITE",
+          "title5": "iPhone 6s",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2785853%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media6": {
@@ -526,7 +523,7 @@
             "showHeader": false,
             "showSubheader": false,
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showCaptions": false,
             "showButtons": true,
             "paddingTop": "1",
@@ -568,7 +565,7 @@
               "size": 0
             }
           },
-          "title1": "BOOTSTRAP 3",
+          "title1": "iPhone 6 Plus",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2807215%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media2": {
@@ -591,7 +588,7 @@
               "size": 0
             }
           },
-          "title2": "RESPONSIVE",
+          "title2": "iPhone 6",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2807300%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media3": {
@@ -614,7 +611,7 @@
               "size": 0
             }
           },
-          "title3": "WEB FONTS",
+          "title3": "iPhone 5s",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2785828%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media4": {
@@ -637,7 +634,7 @@
               "size": 0
             }
           },
-          "title4": "UNLIMITED WEBSITES",
+          "title4": "iPhone 5",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_3074134%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media5": {
@@ -660,7 +657,7 @@
               "size": 0
             }
           },
-          "title5": "TRENDY WEBSITE BLOCKS",
+          "title5": "iPhone 4s",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_1&amp;w=product-169910122_2864288%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media6": {
@@ -700,7 +697,7 @@
             "showHeader": false,
             "showSubheader": false,
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showCaptions": false,
             "showButtons": true,
             "paddingTop": "1",
@@ -742,7 +739,7 @@
               "size": 0
             }
           },
-          "title1": "BOOTSTRAP 3",
+          "title1": "Silicone Case",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_2&amp;w=product-169910122_2874552%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media2": {
@@ -765,7 +762,7 @@
               "size": 0
             }
           },
-          "title2": "RESPONSIVE",
+          "title2": "3D Glass",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_2&amp;w=product-169910122_2869843%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media3": {
@@ -788,7 +785,7 @@
               "size": 0
             }
           },
-          "title3": "WEB FONTS",
+          "title3": "2D Glass",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_2&amp;w=product-169910122_2869842%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media4": {
@@ -811,7 +808,7 @@
               "size": 0
             }
           },
-          "title4": "UNLIMITED WEBSITES",
+          "title4": "EarPods 3.5mm",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_2&amp;w=product-169910122_2869844%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media5": {
@@ -834,7 +831,7 @@
               "size": 0
             }
           },
-          "title5": "TRENDY WEBSIT",
+          "title5": "Charger",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://vk.com/market-169910122?section=album_2&amp;w=product-169910122_2869845%2Fquery\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">приобрести</a>",
           "media6": {
