@@ -1008,7 +1008,7 @@
           "title": "ПОДПИСАТЬСЯ НА НАШИ ОБНОВЛЕНИЯ",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">подписаться</a>",
           "form": {
-            "action": "smartstorecrimea@bk.ru",
+            "action": "dj.aqualight@mail.ru",
             "alerts": {
               "success": "Подписка оформлена!"
             },
@@ -1053,7 +1053,7 @@
           "text2": "<p class=\"mbr-contacts__text\"><strong>СОЦ-СЕТИ</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://vk.com/smartstore_crimea\" target=\"_blank\" class=\"text-info\">Вконтакте</a></li><li><a href=\"https://www.instagram.com/smartstore_crimea\" target=\"_blank\" class=\"text-danger\">Instagram</a></li><li><a href=\"https://ok.ru/group/54284935102644\" target=\"_blank\" class=\"text-warning\">Одноклассники</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "smartstorecrimea@bk.ru",
+            "action": "dj.aqualight@mail.ru",
             "alerts": {
               "success": "Сообщение отправлено!"
             },
