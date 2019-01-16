@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " SmartStore Крым",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore-Rus",
@@ -1057,7 +1057,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "text": "<b>© 2019. smartSTORE КРЫМ. All rights reserved.</b>",
+          "text": "<b>© 2018-2019. <a href=\"index.html\" class=\"text-white\">smartSTORE КРЫМ</a>. All rights reserved.</b>",
           "alias": "unicore/components",
           "_tags": [
             "Темы"
@@ -1284,13 +1284,12 @@
             "Темы"
           ],
           "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-header__text": {
-              "text-align": "center",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "social-buttons2-y"
+          "_anchor": "social-buttons2-y",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"59\" style=\"background-color: rgb(1, 1, 1);\">\n    \n\n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-header mbr-header--inline row\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n            <div class=\"col-sm-4\">\n                <h3 class=\"mbr-header__text mbr-title-font mbr-editable-content\" code-editable-id=\"36\">ПОДПИСЫВАЙТЕСЬ НА НАС</h3>\n            </div>\n            <div class=\"mbr-social-icons mbr-social-icons--style-1 col-sm-8\"><a class=\"mbr-social-icons__icon socicon-bg-twitter mbr-editable-button\" title=\"Вконтакте\" target=\"_blank\" href=\"https://vk.com/smartstore_crimea\" code-editable-id=\"37\"><span class=\"fa fa-vk mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a> <a class=\"mbr-social-icons__icon socicon-bg-facebook mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/smartstorecrimea\" code-editable-id=\"38\"><span class=\"fa fa-facebook-f mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 28px; color: rgb(255, 255, 255);\"></span></a>   <a class=\"mbr-social-icons__icon socicon-bg-instagram mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/smartstore_crimea\" code-editable-id=\"39\"><span class=\"fa fa-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>      </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-header__text {\n  text-align: center;\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1309,7 +1308,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "text": "<b>© 2019. smartSTORE КРЫМ. All rights reserved.</b>",
+          "text": "<b>© 2018-2019. <a href=\"index.html\" class=\"text-white\">smartSTORE КРЫМ</a>. All rights reserved.</b>",
           "alias": "unicore/components",
           "_tags": [
             "Темы"
