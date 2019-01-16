@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " SmartStore Крым",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore-Rus",
