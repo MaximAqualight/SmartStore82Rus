@@ -1,91 +1,286 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
 
-
-
-
-
-
-
-
-
-#ext_menu-0 .mbr-brand__name {
-  font-size: 16px;
+.btn.btn-primary {
+  background-color: #59d929;
+  border-color: #59d929;
 }
-#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+.btn.btn-primary:hover,
+.btn.btn-primary:focus,
+.btn.btn-primary.focus,
+.btn.btn-primary:active,
+.btn.btn-primary.active {
+  background-color: #111111;
+  border-color: #111111;
 }
-#ext_menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
+.btn.btn-info {
+  background-color: #27aae0;
+  border-color: #27aae0;
 }
-#slider-4 H1 {
-  text-align: right;
-  color: #ffffff;
+.btn.btn-info:hover,
+.btn.btn-info:focus,
+.btn.btn-info.focus,
+.btn.btn-info:active,
+.btn.btn-info.active {
+  background-color: #177aa3;
+  border-color: #177aa3;
+}
+.btn.btn-success {
+  background-color: #005cff;
+  border-color: #005cff;
+}
+.btn.btn-success:hover,
+.btn.btn-success:focus,
+.btn.btn-success.focus,
+.btn.btn-success:active,
+.btn.btn-success.active {
+  background-color: #0040b3;
+  border-color: #0040b3;
+}
+.btn.btn-warning {
+  background-color: #673ab7;
+  border-color: #673ab7;
+}
+.btn.btn-warning:hover,
+.btn.btn-warning:focus,
+.btn.btn-warning.focus,
+.btn.btn-warning:active,
+.btn.btn-warning.active {
+  background-color: #46287d;
+  border-color: #46287d;
+}
+.btn.btn-danger {
+  background-color: #f97352;
+  border-color: #f97352;
+}
+.btn.btn-danger:hover,
+.btn.btn-danger:focus,
+.btn.btn-danger.focus,
+.btn.btn-danger:active,
+.btn.btn-danger.active {
+  background-color: #f63709;
+  border-color: #f63709;
+}
+.text-primary {
+  color: #59d929 !important;
+}
+.text-info {
+  color: #27aae0 !important;
+}
+.text-success {
+  color: #005cff !important;
+}
+.text-warning {
+  color: #673ab7 !important;
+}
+.text-danger {
+  color: #f97352 !important;
+}
+a {
+  color: #59d929;
+}
+a:hover,
+a:focus,
+a.focus,
+a:active,
+a.active {
+  color: #3e9a1b;
+}
+.mbr-primary-color,
+.s2-box:hover .s2-box-ico div,
+.content8 .nav-tabs > li > a::after,
+.extFooter1 ul li:before,
+.mbr-gallery-filter li:hover,
+.extFooter1 ul li a:hover {
+  color: #59d929 !important;
+}
+.navbar-nav > li > a:hover,
+.dropdown1-menu > li > a:hover,
+.nav > li > a:hover,
+.nav > li > a:focus,
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus,
+.dropdown-menu a:hover,
+.nav-tabs > li.active > a,
+.content8 .nav-tabs > li.active > a {
+  color: #59d929 !important;
+}
+.cta-wrap.bg-dark .cta-btn.btn-default:hover,
+.cta-wrap .cta-btn.btn-default:hover,
+.mbr-primary-bgColor,
+.nav-tabs > li > a::after,
+.services-s5 .service-content:hover i {
+  background: #59d929 !important;
+}
+blockquote {
+  border-left-color: #59d929;
+}
+.process-step2 .btn-circle:hover,
+.process-step2 .btn-info,
+.mbr-slider .carousel-control:hover {
+  background: #59d929 !important;
+  border-color: #59d929 !important;
+}
+.services-s5 .service-content:hover i:after,
+.cta-wrap.bg-dark .cta-btn:hover,
+.cta-wrap.bg-primary .cta-btn:hover,
+.nav-link.btn.btn-primary:hover {
+  border-color: #59d929;
+}
+.mbr-gallery-filter li.active {
+  color: #59d929;
+  border-color: #59d929;
+}
+.cta-wrap .cta-btn.btn-default:hover,
+.cta-wrap.bg-dark .cta-btn.btn-default:hover {
+  background: #59d929;
+  border-color: #59d929;
+}
+.mbr-title-font,
+.mbr-gallery-filter li {
+  font-family: 'Montserrat', sans-serif !important;
+}
+.mbr-text-font,
+p {
+  font-family: 'Montserrat', sans-serif !important;
+}
+#dropdown-menu1-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu1-0 .nav .link,
+#dropdown-menu1-0 .dropdown-item {
+  font-size: 1em;
+  color: #333;
+}
+#dropdown-menu1-0 .navbar,
+#dropdown-menu1-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu1-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu1-0 .dropdown-menu a:hover,
+#dropdown-menu1-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu1-0 .navbar-toggler {
+  color: #333;
+}
+#dropdown-menu1-0 .btn {
+  font-size: 12px;
   font-family: 'Oswald', sans-serif;
 }
-#header3-f P {
-  font-family: 'Oswald', sans-serif;
+#header15-c I {
+  font-family: 'Montserrat', sans-serif;
 }
-#header3-f H3 {
-  text-align: left;
-  font-family: 'Oswald', sans-serif;
+#header22-n H4 {
+  color: #010101;
 }
-#features1-5 .btn {
-  font-family: 'Oswald', sans-serif;
+#header22-n P {
+  color: #010101;
 }
-#features1-7 .btn {
-  font-family: 'Oswald', sans-serif;
-}
-#features1-8 .btn {
-  font-family: 'Oswald', sans-serif;
-}
-#features1-9 .btn {
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box4-a .mbr-header__text {
-  color: #000000;
-}
-#msg-box4-a .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-a .mbr-article {
-  color: #ffffff;
-}
-#msg-box4-a .mbr-article P {
-  color: #000000;
-}
-#msg-box4-a .btn {
-  font-family: 'Oswald', sans-serif;
-}
-#content5-n .mbr-header .mbr-header__text {
+#features3-q H4 {
+  color: #010101;
   text-align: center;
-  color: #fff;
 }
-#content5-n .mbr-header .mbr-header__subtext {
+#features3-q P {
+  color: #010101;
+  font-size: 20px;
   text-align: center;
-  color: #fff;
 }
-#content5-n .mbr-article {
-  color: #fff;
+#features3-s H4 {
+  color: #010101;
+  text-align: center;
 }
-#form2-j .btn {
+#features3-r H4 {
+  color: #010101;
+  text-align: center;
+}
+#features3-t H4 {
+  color: #010101;
+  text-align: center;
+}
+#features3-u H4 {
+  color: #010101;
+  text-align: center;
+}
+#features3-v H4 {
+  color: #010101;
+  text-align: center;
+}
+#form5-w P {
+  color: #59d929;
+  font-size: 30px;
+}
+#contacts5-k H1 {
+  color: #ffffff;
+}
+#contacts5-k P {
+  color: #59d929;
+  font-size: 14px;
+}
+#contacts5-k H5 {
+  color: #ffffff;
+}
+#social-buttons2-g .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+}
+
+#dropdown-menu1-3 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu1-3 .nav .link,
+#dropdown-menu1-3 .dropdown-item {
+  font-size: 1em;
+  color: #333;
+}
+#dropdown-menu1-3 .navbar,
+#dropdown-menu1-3 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu1-3 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu1-3 .dropdown-menu a:hover,
+#dropdown-menu1-3 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu1-3 .navbar-toggler {
+  color: #333;
+}
+#dropdown-menu1-3 .btn {
+  font-size: 12px;
   font-family: 'Oswald', sans-serif;
 }
-#form2-j .mbr-header__text {
-  font-family: 'Oswald', sans-serif;
-}
-#contacts3-g P {
-  color: #000000;
-}
-#contacts3-g .btn {
-  font-family: 'Oswald', sans-serif;
-}
-#footer1-i B {
-  color: #000000;
-  font-family: 'Oswald', sans-serif;
-}
-#footer1-i P {
+#msg-box11-8 P {
   text-align: left;
+  color: #ffffff;
+}
+#msg-box11-8 H4 {
+  text-align: left;
+}
+#msg-box11-8 B {
+  color: #ffffff;
+}
+#msg-box11-8 I {
+  color: #ffffff;
+}
+#form5-x P {
+  color: #59d929;
+  font-size: 30px;
+}
+#social-buttons2-y .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+}
+#contacts5-k H1 {
+  color: #ffffff;
+}
+#contacts5-k P {
+  color: #59d929;
+  font-size: 14px;
+}
+#contacts5-k H5 {
+  color: #ffffff;
 }
