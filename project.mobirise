@@ -26,7 +26,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/smartstore-logo-2019-128x20.png",
+    "favicon": "@PROJECT_PATH@/assets/images/sscrimealogo001-128x128.png",
     "noImageResize": "",
     "globalfooter": "",
     "seo-meta": "",
@@ -108,7 +108,7 @@
             "showText": false,
             "showButtons": false,
             "showMedia": true,
-            "paddingTop": 2,
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/ru6dl-0mo6q-edited-3-1656x1242.jpg",
@@ -119,9 +119,9 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.05
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
