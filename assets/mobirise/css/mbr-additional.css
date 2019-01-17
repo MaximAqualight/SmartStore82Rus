@@ -210,6 +210,12 @@ p {
   color: #010101;
   text-align: center;
 }
+#custom-html-10 {
+  /* Type valid CSS here */
+}
+#custom-html-10 .my-image {
+  width: 100%;
+}
 #form5-w P {
   color: #59d929;
   font-size: 30px;

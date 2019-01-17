@@ -31,7 +31,7 @@
     "globalfooter": "",
     "seo-meta": "",
     "versionFirst": "4.6.4",
-    "uniqCompNum": 35,
+    "uniqCompNum": 38,
     "versionPublish": "4.6.4"
   },
   "pages": {
@@ -54,7 +54,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#333"
           },
@@ -916,6 +916,20 @@
           "_anchor": "features3-v"
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<iframe frameborder=\"0\" width=\"242\" height=\"457\" src=\"https://represent.com/smartstore-short-sleeve-2018?embed=widget\"></iframe>\n<iframe frameborder=\"0\" width=\"242\" height=\"457\" src=\"https://represent.com/tolstovka-s-kapyushonom-ssc-100?embed=widget\"></iframe>\n<iframe frameborder=\"0\" width=\"242\" height=\"457\" src=\"https://represent.com/silicone-case-is-smartstore-crimea?embed=widget\"></iframe>\n<iframe frameborder=\"0\" width=\"242\" height=\"457\" src=\"https://represent.com/silicone-case-for-7plus-is-smartstore-crimea?embed=widget\"></iframe>\n<iframe frameborder=\"0\" width=\"242\" height=\"457\" src=\"https://represent.com/premium-poster1-smartstore-crimea-2k19?embed=widget\"></iframe>\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Расширения"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-10",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
           "_params": {
             "showTitle": false,
             "showText": true,
@@ -1085,7 +1099,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": 1,
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#333"
           },
